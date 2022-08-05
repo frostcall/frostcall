@@ -1,8 +1,11 @@
-# TLDR - (Too Long, Didn't Read):
+# How to Get Started in Cyber Security
+
+## TLDR - (Too Long, Didn't Read):
 * Listen and Learn
 * Create projects
 * Get formal education and/or certificates
 
+## A bit more detail
 First, it's important to understand that there are numerous different fields in Computer Science and Cyber Security. When it comes to Cyber Security, perhaps some of the largest branches are:
 * Network Security (Defense)
 * Application Security (Defense)
