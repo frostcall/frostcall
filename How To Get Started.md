@@ -47,3 +47,5 @@ Podcasts:
 * https://malicious.life  <— Interviews, and stories
 * https://thecyberwire.com/podcasts/daily-podcast  <— current cyber news
 
+Other:
+* https://www.reddit.com/r/cybersecurity/ <-- cyber security community on Reddit.
