@@ -38,12 +38,12 @@ It assumes you know nothing and teaches you from electricity up, how to make a g
 
 
 YouTube Channels:
-https://www.youtube.com/c/WildWestHackinFest
-https://www.youtube.com/user/DEFCONConference/videos
-https://www.youtube.com/user/Computerphile  <— Great videos on basic concepts.
+* https://www.youtube.com/c/WildWestHackinFest
+* https://www.youtube.com/user/DEFCONConference/videos
+* https://www.youtube.com/user/Computerphile  <— Great videos on basic concepts.
 
 Podcasts:
-https://darknetdiaries.com <— Hacker stories and interviews
-https://malicious.life  <— Interviews, and stories
-https://thecyberwire.com/podcasts/daily-podcast  <— current cyber news
+* https://darknetdiaries.com <— Hacker stories and interviews
+* https://malicious.life  <— Interviews, and stories
+* https://thecyberwire.com/podcasts/daily-podcast  <— current cyber news
 
