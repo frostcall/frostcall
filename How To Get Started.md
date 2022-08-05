@@ -31,3 +31,19 @@ Remember the TLDR? I listened and learned. I created projects. I got formal educ
 3) Start some projects, start small. Learn how to use git and make some stuff. It's OK if it's terrible. Learn something new and make a small project out of it. Eventually, start making more projects that explore cooler things. Challenge yourself.
 
 Honestly, if you challenge yourself, you can have an entry level job within a year.
+
+## Some things to do to get started today:
+Do this, seriously: https://www.nand2tetris.org/
+It assumes you know nothing and teaches you from electricity up, how to make a game. It gives you a better understanding of a computer than mot other things and it's free.
+
+
+YouTube Channels:
+https://www.youtube.com/c/WildWestHackinFest
+https://www.youtube.com/user/DEFCONConference/videos
+https://www.youtube.com/user/Computerphile  <— Great videos on basic concepts.
+
+Podcasts:
+https://darknetdiaries.com <— Hacker stories and interviews
+https://malicious.life  <— Interviews, and stories
+https://thecyberwire.com/podcasts/daily-podcast  <— current cyber news
+
