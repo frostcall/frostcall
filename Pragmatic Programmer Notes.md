@@ -3,7 +3,7 @@ Just a few notes from the book 'The Pragmatic Programmer' the 20th Anniversary e
 Topics    -   Thoughts
 1)  Work on yourself. Make yourself better.
 2)  Own your mistakes.
-3)  Keep your code tiddy. 
+3)  Keep your code tidy. 
 4)  Help others.
 5)  Know when to be 'done' with your programs. Not everything has to be perfect.
 6)  Keep learning new skills.
